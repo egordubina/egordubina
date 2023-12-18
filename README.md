@@ -1,10 +1,4 @@
 ```kotlin
-data class Developer(
-    val name: String,
-    val age: Int,
-    val contacts: List<Social>
-)
-
 val egordubina = Developer(
     name = "Egor Dubina",
     age = 18,
