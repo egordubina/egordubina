@@ -1,16 +1,27 @@
-### Hi there 👋
+```kotlin
+data class Developer(
+    val name: String,
+    val age: Int,
+    val contacts: List<Social>
+)
 
-<!--
-**egordubina/egordubina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+val egordubina = Developer(
+    name = "Egor Dubina",
+    age = 18,
+    contacts = listOf(
+        Telegram(username = "egordubina"),
+        Email(username = "egordubina@icloud.com"),
+        VK(username = "egordubina"),
+        GitHub(username = "egordubina"),
+        VK(username = "egordubina"),
+        // TODO: Deprecated. Change Twitter to X
+        Twitter(username = "egordubina"),
+    )
+)
+```
+# Contacts
+[Telegram](https://t.me/egorduina)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About
+City: Moscow, Russia<br/>
+Education: [School 21](https://21-school.ru)
