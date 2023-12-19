@@ -13,8 +13,8 @@ val egordubina = Developer(
 ```
 # Contacts
 [Telegram](https://t.me/egordubina)<br/>
-[VK](https://vk.com/egordubina)<br/>
-[Email](mailto:egordubina@icloud.com)
+[Email](mailto:egordubina@icloud.com)<br/>
+[VK](https://vk.com/egordubina)
 
 # About
 City: Moscow, Russia<br/>
