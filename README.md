@@ -12,8 +12,8 @@ val egordubina = Developer(
 )
 ```
 # Contacts
-[Telegram](https://t.me/egordubina)
-[VK](https://vk.com/egordubina)
+[Telegram](https://t.me/egordubina)<br/>
+[VK](https://vk.com/egordubina)<br/>
 [Email](mailto:egordubina@icloud.com)
 
 # About
