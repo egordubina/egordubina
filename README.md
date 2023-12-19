@@ -2,6 +2,7 @@
 val egordubina = Developer(
     name = "Egor Dubina",
     age = 18,
+    education = "School 21",
     contacts = listOf(
         Telegram(username = "egordubina"),
         Email(username = "egordubina@icloud.com"),
@@ -14,7 +15,7 @@ val egordubina = Developer(
 )
 ```
 # Contacts
-[Telegram](https://t.me/egorduina)
+[Telegram](https://t.me/egordubina)
 
 # About
 City: Moscow, Russia<br/>
