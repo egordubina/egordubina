@@ -8,14 +8,13 @@ val egordubina = Developer(
         Email(username = "egordubina@icloud.com"),
         VK(username = "egordubina"),
         GitHub(username = "egordubina"),
-        VK(username = "egordubina"),
-        // TODO: Deprecated. Change Twitter to X
-        Twitter(username = "egordubina"),
     )
 )
 ```
 # Contacts
 [Telegram](https://t.me/egordubina)
+[VK](https://vk.com/egordubina)
+[Email](mailto:egordubina@icloud.com)
 
 # About
 City: Moscow, Russia<br/>
