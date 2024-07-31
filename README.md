@@ -1,7 +1,7 @@
 ```kotlin
 val egordubina = Developer(
     name = "Egor Dubina",
-    age = 18,
+    age = 19,
     education = "School 21",
     contacts = listOf(
         Telegram(username = "egordubina"),
