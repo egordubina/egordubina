@@ -1,7 +1,7 @@
 ```kotlin
 val egordubina = Developer(
     name = "Egor Dubina",
-    age = 19,
+    age = 20,
     education = "School 21",
     contacts = listOf(
         Telegram(username = "egordubina"),
@@ -18,4 +18,4 @@ val egordubina = Developer(
 
 # About
 City: Moscow, Russia<br/>
-Education: [School 21](https://21-school.ru)
+Education: [School 21](https://21-school.ru), [MTUCI](https://mtuci.ru)
